@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+models/*.h5
+models/*.weights.h5
+outputs/*.png
+cornell_movie_dialogs_corpus.zip
